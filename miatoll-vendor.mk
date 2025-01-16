@@ -413,26 +413,21 @@ PRODUCT_PACKAGES += \
     libadiertac \
     libadm \
     libaudcal \
-    libaudioconfigstore \
-    libaudioparsers \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
-    libdrc \
     libgcs-calwrapper \
     libgcs-ipc \
     libgcs-osal \
     libgcs \
-    libhdmipassthru \
     liblistensoundmodel2 \
     libmm-hdcpmgr \
     libmmrtpdecoder_proprietary \
     libmmrtpencoder_proprietary \
     libmulawdec \
     libqtigef \
-    libsurround_3mic_proc \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
